@@ -1,29 +1,41 @@
-# threeJSIntro
+# 🕰️ Three JS Introduction
 
-This template should help get you started developing with Vue 3 in Vite.
+## Tab of content
+- [Introduction](#-introduction)
+- [Setup](#-setup)
+- [Author](#-author)
 
-## Recommended IDE Setup
+---
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
+## 🏁 Introduction
+This project is a personal sandox where I learn and experiment with Three.js.
 
-## Customize configuration
+---
 
-See [Vite Configuration Reference](https://vite.dev/config/).
+## 💻 Setup
 
-## Project Setup
+### GIT
 
-```sh
+1. Clone the repository
+
+```bash
+git clone https://github.com/floriansalvi/LAB_ThreeJsIntroduction.git
+cd threeJSIntro
+```
+
+2. Dependencies
+
+```bash
 npm install
 ```
 
-### Compile and Hot-Reload for Development
+3. Start the server
 
-```sh
+```bash
 npm run dev
 ```
+---
 
-### Compile and Minify for Production
+## 👥 Author
 
-```sh
-npm run build
-```
+**Florian Salvi**  
