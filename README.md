@@ -1,4 +1,4 @@
-# 🕰️ Three JS Introduction
+# 🎨 Three JS Introduction
 
 ## Tab of content
 - [Introduction](#-introduction)
