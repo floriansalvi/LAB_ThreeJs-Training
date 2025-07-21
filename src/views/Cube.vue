@@ -101,6 +101,10 @@ onMounted(() => {
                 pill.material.color.set(0xf270c7)
             } else {
                 pill.material.color.set(0xffffff)
+                if (colorInterval) {
+                    clearInterval(colorInterval)
+                    colorInterval = null
+                }
             }
         }
 
